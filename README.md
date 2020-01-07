@@ -3,4 +3,4 @@ git flow test
 
 feature1
 
-feature4
+feature4 4
